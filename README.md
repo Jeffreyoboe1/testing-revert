@@ -9,3 +9,4 @@ sammy commit 2
 padgett 3
 
 merge branch1
+merge branch1 - sammy
