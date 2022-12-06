@@ -30,3 +30,6 @@ Another Sammy
 Sally - rewards
 Rhonda - rewards
 Melissa - rewards
+
+John - Develop
+George - Develop
