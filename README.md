@@ -13,3 +13,6 @@ merge branch1 - sammy
 
 new merge branch - sammy
 new merge branch - jeff
+
+
+Sammy commit from new merge
