@@ -6,3 +6,4 @@ testing reverting squashed merge commits
 # commit 2
 sammy commit
 sammy commit 2
+padgett 3
