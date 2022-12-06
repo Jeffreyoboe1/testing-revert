@@ -27,4 +27,5 @@ Sammy commit from new merge
 Sammy again
 Another Sammy
 
-Sally
+Sally - rewards
+Rhonda - rewards
