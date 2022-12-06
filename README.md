@@ -18,11 +18,3 @@ main - Sammy
 
 real sammy main
 real sammy main 2
-
-new merge branch - sammy
-new merge branch - jeff
-
-
-Sammy commit from new merge
-Sammy again
-Another Sammy
