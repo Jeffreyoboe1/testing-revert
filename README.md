@@ -7,3 +7,5 @@ testing reverting squashed merge commits
 sammy commit
 sammy commit 2
 padgett 3
+
+merge branch1
